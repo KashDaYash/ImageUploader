@@ -1,7 +1,7 @@
 {
   "name": "Telegraph Uploader",
   "description": "A bot to Upload Telegram Images to telegraph",
-  "repository": "https://github.com/ZauteKm/TGraph-Image-Uploader",
+  "repository": "https://github.com/LegendYash/ImageUploader",
   "logo": "https://telegra.ph/file/fc9136f02541ac58c96e0.jpg",
   "keywords": ["telegram", "telegraph", "imageuploader","telegram bot"],
   "env": {
@@ -9,10 +9,10 @@
       "description": "Your Bot token from @Botfather"
     },
     "API_ID": {
-      "description": "Your API_ID from https://my.telegram.org/apps or @UseTGzKbot"
+      "description": "Your API_ID from https://my.telegram.org/apps or @Scrappybot"
     },
     "API_HASH": {
-      "description": "Your API_HASH from https://my.telegram.org/apps or @UseTGzKbot"
+      "description": "Your API_HASH from https://my.telegram.org/apps or @Scrappybot"
     }
    },
    "buildpacks": [
