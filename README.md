@@ -35,5 +35,5 @@ Libraries used: => Pyrogram => Telegraph
 ### Credits 
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* [Arun PT](https://github.com/CW4RR10R)
+* [LegendYash](https://github.com/LegendYash)
 * [Contributors](https://github.com/LegendYash/ImageUploader/graphs/contributors)
